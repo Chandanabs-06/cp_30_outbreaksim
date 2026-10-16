@@ -1,0 +1,15 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated model and output files
+nutrition_deficiency_model.joblib
+model_test_predictions.csv
+model_evaluation_metrics.csv
+preprocessed_patient_dataset.csv
+preprocessed_food_diary_dataset.csv
+patient_encoding_mappings.csv
+food_encoding_mappings.csv
